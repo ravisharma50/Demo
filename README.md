@@ -1,4 +1,4 @@
 # Demo
 This is my first Git Repository. 
 <br>
-Author - Ravi sharma
+Author - Ravi (rathore)
